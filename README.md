@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awais Zahid</h1>
 <h3 align="center">MERN Stack Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/@nabzs_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@nabzs_dev?logo=twitter&style=for-the-badge" alt="@nabzs_dev" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs, Docker, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://awaiszahid381.github.io/nabz-s-Awais.github.io/](https://awaiszahid381.github.io/nabz-s-Awais.github.io/)
