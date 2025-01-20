@@ -4,7 +4,7 @@
 
 ## 🧩 **Hobbies & Interests**
 
-<details>
+<details open>
 <summary style="font-size:20px;color:#39d353">aboutMe.js</summary>
 
 ```
@@ -34,7 +34,7 @@ aboutMe()
 ```
 </details>
 
-<details>
+<details open>
 <summary style="font-size:20px;color:#39d353">about_me.py</summary>
 
 ```
