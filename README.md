@@ -19,4 +19,4 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,js,py,html,css,nodejs,react,express,jest,bootstrap,electron,github,git,mongodb,mysql,postgres,bootstrap,docker,ts,jquery,graphql,redux,linux,bash,vscode,notion)](https://skillicons.dev)
