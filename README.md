@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg" style="display:block;">
   <img src="https://readme-typing-svg.demolab.com?font=%24+whoami&weight=700&size=25&duration=2000&pause=300&color=39d353&width=435&lines=%24+print(username, details);Awais_Zahid MERN Engineer" alt="Typing SVG" />
+  
 </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&color=DFF713&center=true&vCenter=true&width=435&lines=Awais+Zahid;Full+Stack+Engineer" alt="Typing SVG" /></a>
 
 ## 🧩 **Hobbies & Interests**
 
