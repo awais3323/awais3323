@@ -65,6 +65,6 @@ about_me()
 ## 💡 **Skills**
 <div style="background:green; padding:6px 5px 0px 5px; border-radius:15px; display:block; width:max-content;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,js,py,html,css,nodejs,react,express,jest,electron,github,git,mongodb,mysql,postgres,bootstrap,docker,ts,jquery,graphql,redux,linux,bash,vscode,notion" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=vim,js,py,html,css,nodejs,react,express,jest,electron,github,git,mongodb,mysql,postgres,redis,bootstrap,docker,ts,jquery,graphql,redux,linux,bash,vscode,notion" alt="Skills" />
   </a>
 </div>
