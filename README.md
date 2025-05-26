@@ -1,5 +1,4 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&color=DFF713&center=true&vCenter=true&width=435&lines=Awais+Zahid;Full+Stack+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&color=DFF713&vCenter=true&width=435&lines=Awais+Zahid;Full+Stack+Engineer" alt="Typing SVG" /></a>
 
 ## 🧩 **Hobbies & Interests**
 
